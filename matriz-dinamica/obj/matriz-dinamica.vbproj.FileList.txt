@@ -1,0 +1,10 @@
+bin\Debug\matriz-dinamica.exe
+bin\Debug\matriz-dinamica.pdb
+bin\Debug\matriz-dinamica.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\matriz_dinamica.Form1.resources
+obj\Debug\matriz_dinamica.Resources.resources
+obj\Debug\matriz-dinamica.vbproj.GenerateResource.Cache
+obj\Debug\matriz-dinamica.exe
+obj\Debug\matriz-dinamica.xml
+obj\Debug\matriz-dinamica.pdb
